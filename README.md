@@ -1,3 +1,5 @@
+# Custom eye tracker with stereo world camera mounts
+
 # Pupil Hardware
 
 We release the CAD files for the camera mounts for you to download and modify, in accordance with our license. CAD files for the frame are not open source, but we do document the interface for the DIY Kit and Pupil Headset.
